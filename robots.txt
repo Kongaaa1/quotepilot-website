@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kongaaa1.github.io/quotepilot-website/sitemap.xml
